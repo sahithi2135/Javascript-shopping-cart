@@ -17,7 +17,7 @@ Responsive Design for Mobile, Tablet, and Desktop
 Interactive User Interface with Modern Styling
 
 ##Technologies Used
-HT
+HTML
 CSS
 JavaScript (ES6)
 FAST API Integration
